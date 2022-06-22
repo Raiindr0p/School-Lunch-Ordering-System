@@ -1,0 +1,95 @@
+1
+Beef Burger
+7.2
+2
+Mac & Cheese
+7.2
+3
+Lasagna
+7.5
+4
+American Hotdog
+6.8
+5
+Chicken Noodles
+6.8
+6
+BBQ Pork Bun
+7.2
+7
+Munch Box
+6.9
+8
+Green Salad
+5.2
+9
+Beef Sandwich
+4.6
+10
+Chicken Sandwich
+4.6
+11
+Chicken Salad
+6.2
+12
+Tuna Sandwich
+4.6
+13
+Spring Water
+3.0
+14
+Orange Juice
+3.8
+15
+Milk
+3.5
+16
+Tuna Onigiri
+4.5
+17
+Chicken Onigiri
+4.5
+18
+Salmon Avocado
+8.2
+19
+Chicken Avocado
+8.2
+20
+Fried Chicken
+8.2
+21
+Tuna Avocado
+8.2
+22
+Sausage roll Popcorn & Apple
+6.7
+23
+Vegemite Sandwich Popcorn & Blackcurrant
+7.0
+24
+Ham Pizza Bread Popcorn & Apple
+7.3
+25
+Vege Pizza Bread Popcorn & Blackcurrant
+7.0
+26
+Chocolate Muffin
+2.6
+27
+Choc Brownie
+3.0
+28
+Fruit Salad
+5.2
+29
+Apple
+1.7
+30
+Banana
+1.9
+31
+Pop Corn
+1.51
+beef burger
+10
